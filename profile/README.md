@@ -15,13 +15,9 @@ Geliştirdiğimiz projeler, sadece bugünün değil yarının da ihtiyaçların�
 | ------- | -------- |
 | yakında | yakında  |
 
-## 🤝 Katkı Sağla
+## 🤝 Fikrinizi Hayata Geçirelim
 
-Bizimle birlikte üretmek istersen:
-
-1. Herhangi bir projeyi forkladıktan sonra katkıda bulunabilirsin
-2. Soruların ya da önerilerin için issue açmaktan çekinme
-3. Yeni fikirler için bizimle iletişime geçebilirsin
+Hayalini kurduğunuz proje/uygulamayı bizimle birlikte üretmek isterseniz, lütfen bizimle iletişime geçin.
 
 ## 🧑‍💻 İletişim ve Topluluk
 
